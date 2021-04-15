@@ -11,6 +11,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'django-haystack>=2.5.1',
+    'six',
 ]
 
 test_requirements = [
